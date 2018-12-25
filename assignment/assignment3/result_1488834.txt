@@ -1,0 +1,7 @@
+n        average_overlap        running_time_for_A2        running_time_for_A3
+100          0.10                     0.01s                       0.01s
+200          0.10                     0.01s                       0.01s
+400          0.09                     0.01s                       0.01s
+600          0.09                     0.01s                       0.01s
+800          0.09                     0.01s                       0.02s
+1000         0.09                     0.01s                       0.02s

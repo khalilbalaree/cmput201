@@ -1,0 +1,14 @@
+total 18K
+drwx------+ 6 zijun4 ugrad  11 Sep 14 13:33 C201
+-rw-------+ 1 zijun4 ugrad  72 Sep  6  2016 C:\nppdf32Log\debuglog.txt
+drwx------+ 2 zijun4 ugrad   2 Sep  6  2016 Desktop
+drwx------+ 3 zijun4 ugrad  21 Nov 22  2016 Documents
+drwx------+ 3 zijun4 ugrad   7 Mar  7  2017 Downloads
+drwx------+ 2 zijun4 ugrad   2 Sep  6  2016 Music
+drwx------+ 2 zijun4 ugrad   2 Sep  6  2016 Pictures
+drwx------+ 2 zijun4 ugrad   2 Sep  6  2016 Public
+drwx------+ 2 zijun4 ugrad   2 Sep  6  2016 Templates
+drwx------+ 2 zijun4 ugrad   2 Sep  6  2016 Videos
+-rw-------+ 1 zijun4 ugrad 688 Sep 14 14:43 files.tar.gz
+drwx------+ 2 zijun4 ugrad   7 Sep 14 14:51 orig
+-rw-------+ 1 zijun4 ugrad   0 Sep  7 15:01 square
